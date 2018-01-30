@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3f31f08d62c67bc913395132fcf199f1",
+    "packages": [
+        {
+            "name": "dimm/deposit",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "_dev/dimm/deposit",
+                "reference": "e1aa5c959b9a6ab0cc186d7fa1cd849ef3fd6d80",
+                "shasum": null
+            },
+            "type": "component",
+            "autoload": {
+                "psr-4": {
+                    "dimm\\deposit\\": ""
+                }
+            },
+            "license": [
+                "no"
+            ],
+            "authors": [
+                {
+                    "name": "dimm",
+                    "email": "dimm.mds@gmail.com"
+                }
+            ],
+            "description": "Deposit calculator"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "dimm/deposit": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

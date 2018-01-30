@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<dataset>
+    <user id="1" id_number="3101305317!" firstname="Поджог" lastname="Сараев" gender="1" birthday="1984-11-28"/>
+    <user id="2" id_number="1111111111" firstname="Рулон" lastname="Обоев" gender="0" birthday="1995-01-08"/>
+
+	<deposit id="1" user_id="1" percent="24" amount="500" created_at="1995-01-08" start_at="2016-02-28" end_at="2018-02-28" status="1" />
+	<deposit id="2" user_id="1" percent="36" amount="6000" created_at="1995-01-08" start_at="2016-01-31" end_at="2018-01-31" status="1" />
+	<deposit id="3" user_id="1" percent="15" amount="50000" created_at="1995-01-08" start_at="2016-01-08" end_at="2018-01-08" status="1" />
+	<deposit id="4" user_id="2" percent="6" amount="1000" created_at="1995-01-08" start_at="2016-05-30" end_at="2018-05-30" status="1" />
+	<deposit id="5" user_id="2" percent="20" amount="1000" created_at="1995-01-08" start_at="2016-01-08" end_at="2018-01-08" status="1" />
+	<deposit id="6" user_id="2" percent="12" amount="100000" created_at="1995-01-08" start_at="2016-04-15" end_at="2018-04-15" status="1" />
+	<deposit id="7" user_id="1" percent="36" amount="6000" created_at="1995-01-08" start_at="2016-02-29" end_at="2018-02-28" status="1" />
+	<deposit id="8" user_id="1" percent="36" amount="6000" created_at="1995-01-08" start_at="2016-02-29" end_at="2018-02-28" status="0" />
+</dataset>

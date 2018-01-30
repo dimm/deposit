@@ -1,0 +1,20 @@
+{
+    "name": "dimm/service",
+    "description": "deposit service",
+    "type": "service",
+    "authors": [
+        {
+            "name": "dimm",
+            "email": "dimm.mds@gmail.com"
+        }
+    ],
+    "require": {
+        "dimm/deposit": "dev-master"
+    },
+    "repositories": [
+     {
+            "type": "path",
+            "url": "_dev/dimm/deposit"
+        }
+    ]
+}

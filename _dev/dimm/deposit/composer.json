@@ -1,0 +1,19 @@
+{
+    "name": "dimm/deposit",
+    "description": "Deposit calculator",
+    "type": "component",
+    "require": {},
+    "license": "no",
+    "authors": [
+        {
+            "name": "dimm",
+            "email": "dimm.mds@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "dimm\\deposit\\": ""
+        }
+    }
+
+}

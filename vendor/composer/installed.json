@@ -1,0 +1,30 @@
+[
+    {
+        "name": "dimm/deposit",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "dist": {
+            "type": "path",
+            "url": "_dev/dimm/deposit",
+            "reference": "e1aa5c959b9a6ab0cc186d7fa1cd849ef3fd6d80",
+            "shasum": null
+        },
+        "type": "component",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "dimm\\deposit\\": ""
+            }
+        },
+        "license": [
+            "no"
+        ],
+        "authors": [
+            {
+                "name": "dimm",
+                "email": "dimm.mds@gmail.com"
+            }
+        ],
+        "description": "Deposit calculator"
+    }
+]
